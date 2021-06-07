@@ -6,17 +6,10 @@ Portfolio Sample
 ## デモ
 [webサイトを見る](https://tk-jp-portfolio-sample.herokuapp.com/)
 
+<img width="1194" alt="ポートフォリオサンプル" src="https://user-images.githubusercontent.com/83483946/121094292-61812500-c829-11eb-9f61-6d9e7fed385a.png">
+
 ## 利用している技術
-使った言語やツールなどのバージョンを記載する。
+HTML / CSS
 
 ## インスール方法
-インストールの仕方を記載する。
-
-### その他に記載すると良い事項
-* システム構成図
-* 使い方
-    * インストール方法
-    * テスト方法
-    * デプロイ方法
-* こだわりポイント
-* ライセンス情報
+そのままindex.htmlをブラウザで開くと閲覧できます。
